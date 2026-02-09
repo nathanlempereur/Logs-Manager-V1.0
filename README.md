@@ -62,7 +62,7 @@ Le module détecte automatiquement si la configuration est manquante et exécute
 
 
 ### Téléchargement
-git git@github.com:nathanlempereur/Logs-Manager-V1.0.git
+git clone [https://github.com/VOTRE_PROFIL/SrvTools.git](https://github.com/nathanlempereur/Logs-Manager-V1.0.git)
 
 ### Lancement
 sudo ./logs-manager.sh
