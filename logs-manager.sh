@@ -64,7 +64,7 @@ while [[ $quitter -ne 0 ]]; do
     echo -e "  ${JAUNE}└──────────────────────────────────────────────────┘${NC}"
     echo ""
     
-    read -p "  Sélectionnez une option [0-3] : " choix
+    read -p "  Sélectionnez une option [0-6] : " choix
     
     case $choix in 
         1) bash scripts/logs-apache.sh ;;
@@ -84,4 +84,5 @@ while [[ $quitter -ne 0 ]]; do
             sleep 1
             ;;
     esac
+
 done
