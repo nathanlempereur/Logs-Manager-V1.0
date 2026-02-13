@@ -70,10 +70,10 @@ sudo ./logs-manager.sh
 
 ---
 
-## Informations !!
+## Compatibilité !!
 
 L'utilisation de cet outil est optimisée pour :
-- **OS** : Linux avec gestionnaire de paquets APT (Debian/Ubuntu).
+- **OS** : Linux avec gestionnaire de paquets APT (Debian/Ubuntu/Kali).
 - **Droits** : Accès Root obligatoire pour la lecture de `/var/log/`.
 
 ---
