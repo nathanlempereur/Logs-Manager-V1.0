@@ -86,6 +86,13 @@ Ce module est **open-source**. Vous pouvez le modifier et proposer des améliora
 **Contact** : contact@nlempereur.ovh
 
 ---
+
+### Contact
+- Email : **contact@nlempereur.ovh**
+- Site web : https://nlempereur.ovh/contact.php
+
+---
+
 Merci d'utiliser **Logs-Manager** ! 🚀
 
 https://logs-manager.nlempereur.ovh
