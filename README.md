@@ -1,4 +1,6 @@
 # Logs-Manager V1.0 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Status](https://img.shields.io/badge/status-Libre-orange)
 
 Bienvenue dans le module **Logs-Manager** !
 <img width="763" height="190" alt="image" src="https://github.com/user-attachments/assets/71e85a87-8eef-4ad7-8672-6924b8d7c234" />
